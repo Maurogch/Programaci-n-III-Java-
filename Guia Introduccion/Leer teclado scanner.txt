@@ -1,0 +1,3 @@
+Scanner sc = new Scanner (System.in) //linea necesaria
+
+int rta = sc.nextInt() //linea para capturar teclado
